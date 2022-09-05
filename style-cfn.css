@@ -1,0 +1,12 @@
+.crypto{
+    margin-top: 50px;
+}
+.crypto#main-content .container:before{
+    display:none;
+}
+div[id*="ccpw-datatable"].dataTables_wrapper table td:nth-of-type(2), div[id*="ccpw-datatable"].dataTables_wrapper table th:nth-of-type(2){
+    text-align:left !important;
+}
+div[id*="ccpw-datatable"].dataTables_wrapper table.dataTable td, div[id*="ccpw-datatable"].dataTables_wrapper table.dataTable th{
+    padding: 10px !important;
+}
